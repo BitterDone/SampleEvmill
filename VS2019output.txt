@@ -1,0 +1,322 @@
+'SampleEvmill.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\SampleEvmill.exe'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\kernel32legacy.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\vccorlib140d_app.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\vcruntime140d_app.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\ucrtbased.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\msvcp140d_app.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\forwarders\kernel32.dll'. Symbols loaded.
+The thread 0x968 has exited with code 0 (0x0).
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\procthreadexthost.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\twinapi.appcore.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\rmclient.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\MinUser.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\dcomp.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Unloaded 'C:\Windows\System32\gdi32.dll'
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\gdi32min.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\d2d1.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\advapi32legacy.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\sspicli.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\OneCoreUAPCommonProxyStub.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Graphics.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Shell.ServiceHostBuilder.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\UnityPlayer.dll'. 
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\D3D12.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\mfplat.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\mfreadwrite.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\MMDevAPI.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\vccorlib140_app.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\RTWorkQ.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\vcruntime140_app.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'U:\Programs\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.27323.0_x86__8wekyb3d8bbwe\msvcp140_app.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ExecModelClient.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Storage.ApplicationData.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi_onecore.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\MrmCoreR.dll'. Symbols loaded.
+[1.058662 / 1.088028] - Initializing Unity runtime
+Loading native plugins
+  Loading AudioPluginMsHRTF.dll
+'SampleEvmill.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\AudioPluginMsHRTF.dll'. 
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\HrtfApo.dll'. 
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\execmodelproxy.dll'. Symbols loaded.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: Cn::XH at memory location 0x018FE664.
+onecoreuap\windows\moderncore\inputv2\inputhost\components\cursor\client\cursorclient.cpp(43)\InputHost.dll!6F51AAA3: (caller: 6F51AC1C) ReturnHr(1) tid(318) 87B20809 onecoreuap\windows\moderncore\inputv2\inputhost\components\cursor\client\cursorclient.cpp(75)\InputHost.dll!6F51AC33: (caller: 6F4E951D) ReturnHr(2) tid(318) 87B20809 'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\UiaManager.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.Core.TextInput.dll'. Symbols loaded.
+[0.003397 / 2.070877] - AppCallbacks::SetCoreWindowEvents
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Perception.Stub.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Mirage.dll'. Symbols loaded.
+wil(439)\Windows.Mirage.dll!6F7ACB6F: (caller: 6F7AC996) ReturnHr(1) tid(1788) 80070005 Access is denied.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\d3d10warp.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+[0.399799 / 2.471202] - AppCallbacks::InitializeD3DWindow
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. Symbols loaded.
+[2.529126 / 2.529126] - OnActivated event.
+[0.031561 / 2.560687] - OnCoreWindowSizeChanged event (0.00, 0.00, 853.33, 480.00), m_Initialized=False.
+[0.002328 / 2.563015] - OnVisibilityChanged event - Visible.
+[0.004883 / 2.567898] - OnWindowActivated event - CodeActivated.
+Module information:
+ Built with Compiler Ver '191326128'
+ Built from '2018.4/staging' branch
+ Version is '2018.4.14f1 (05119b33d0b7)'
+ Debug build
+ Application type 'D3D'
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Devices.Enumeration.dll'. Symbols loaded.
+[0.727966 / 3.295864] - OnCoreWindowSizeChanged event (0.00, 0.00, 853.33, 480.00), m_Initialized=False.
+ OS 'Windows 10 (10.0.17763)'
+'SampleEvmill.exe' (Win32): Loaded 'U:\USERS\DefaultAccount\AppData\Local\DevelopmentFiles\Template3DVS.Debug_Win32.dev\GameAssembly.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\IPHLPAPI.DLL'. Symbols loaded.
+PlayerConnection initialized from C:/Data/Users/DefaultAccount/AppData/Local/DevelopmentFiles/Template3DVS.Debug_Win32.dev/Data (debug = 0)
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\mswsock.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.Connectivity.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.HostName.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\wshbth.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\dnsapi.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\nsi.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\dhcpcsvc6.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\dhcpcsvc.dll'. Symbols loaded.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\FWPUCLNT.DLL'. Symbols loaded.
+PlayerConnection initialized network socket : 0.0.0.0 55323
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\nlaapi.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.ApplicationModel.dll'. Symbols loaded.
+Multi-casting "[IP] 192.168.2.66 [Port] 55323 [Flags] 2 [Guid] 3395982583 [EditorId] 0 [Version] 1048832 [Id] UWPPlayerX86(HoloLens-SAQCC) [Debug] 0 [PackageName] Template3D_pzq3xp76mxafg" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55323]
+PlayerConnection already initialized - listening to [0.0.0.0:55323]
+[4.929194 / 7.707560] - Initialize
+[XR] Discovering subsystems at path C:/Data/Users/DefaultAccount/AppData/Local/DevelopmentFiles/Template3DVS.Debug_Win32.dev/Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\DXGIDebug.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. 
+'SampleEvmill.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd32.dll'
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. 
+'SampleEvmill.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd32.dll'
+'SampleEvmill.exe' (Win32): Unloaded 'C:\Windows\System32\DXGIDebug.dll'
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. 
+'SampleEvmill.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd32.dll'
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\igd10iumd32.dll'. 
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Unloaded 'C:\Windows\System32\ncrypt.dll'
+'SampleEvmill.exe' (Win32): Unloaded 'C:\Windows\System32\igd10iumd32.dll'
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Microsoft Basic Render Driver (ID=0x8c)
+    Vendor:   (null)
+    VRAM:     980 MB
+Initialize engine version: 2018.4.14f1 (05119b33d0b7)
+[AudioManager] InitNormal(tryDeviceDefaults = false, preferredOutputType = FMOD_OUTPUTTYPE_AUTODETECT) attempt with hardAudioDisable: false
+[AudioManager] Setting output to FMOD_OUTPUTTYPE_AUTODETECT
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Media.Devices.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\DevDispItemProvider.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\AudioSes.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\avrt.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\threadpoolwinrt.dll'. Symbols loaded.
+[AudioManager] InitNormal succeeded with output "FMOD_OUTPUTTYPE_WASAPI". Driver name is "Speakers (Intel SST Audio Device (WDM))". Speaker mode is "FMOD_SPEAKERMODE_STEREO"
+The thread 0x278 has exited with code 0 (0x0).
+The thread 0x1460 has exited with code 0 (0x0).
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Gaming.Input.dll'. Symbols loaded.
+[0.002653 / 11.033044] - AppCallbacks::SetupInputEvents
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Devices.Sensors.dll'. Symbols loaded.
+onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(1) tid(12c0) 8685C003 'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\biwinrt.dll'. Symbols loaded.
+onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(2) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(3) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(4) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(5) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(6) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(7) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(8) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(9) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(10) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(11) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(12) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(13) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(14) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(15) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(16) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(17) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(18) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(19) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(20) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(21) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(22) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(23) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(24) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(25) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(26) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(27) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(28) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(29) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(30) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(31) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(32) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(33) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(34) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(35) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(36) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(37) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(38) tid(12c0) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!713EF86B: (caller: 713F2723) ReturnHr(39) tid(12c0) 8685C003 Exception thrown at 0x77143072 (KernelBase.dll) in SampleEvmill.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\userenv.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\profext.dll'. Symbols loaded.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5B1E33D0: (caller: 5B1E23EF) Exception(1) tid(318) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x018FDA48.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\simpleorientation.cpp(127)\Windows.Devices.Sensors.dll!5B1E1AA7: (caller: 5B1DB5FC) Exception(2) tid(318) 80070490 Element not found.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x018FDC90.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5B1D8561: (caller: 5B1D591F) ReturnHr(1) tid(318) 80070490 Element not found.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\lib\simpleorientationsensor.cpp(160)\Windows.Devices.Sensors.dll!5B23B90D: (caller: 5B239E09) ReturnHr(2) tid(318) 80070490 Element not found.
+[0.462837 / 11.496504] - AppCallbacks::SetupOrientationSensorEvents
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\windows.applicationmodel.datatransfer.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\coml2.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ie_shims.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\ClipboardServer.dll'. Symbols loaded.
+[0.928818 / 11.828511] - AppCallbacks::Load
+[8.533757 / 11.829622] - Starting first scene loading
+The following GlobalManagers were stripped from the build (Either because they're not used or not supported on this platform):
+  ClusterInputManager
+If your machine has multiple graphics adapters, Unity may have created a WindowContext on the wrong adapter. If you experience a black screen when playing, please restart the Editor.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/VR/VRDevice.cpp Line: 319)
+
+[0.045680 / 11.875302] - OnCoreWindowSizeChanged event (0.00, 0.00, 845.33, 480.00), m_Initialized=True.
+Created eye textures with a "separate" layout.  The "multi-pass" stereo mode will be used.
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/VR/VRDevice.cpp Line: 2308)
+
+[0.146171 / 12.021473] - Finishing first scene loading
+[0.001091 / 12.022564] - First level loaded
+[0.000673 / 12.023237] - PerformUpdateAndRender started
+Windows Mixed Reality spatial locatability state changed to Active.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/VR/HoloLens/HoloLensWorldManager.cpp Line: 336)
+
+UnloadTime: 15.107000 ms
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\OneCoreCommonProxyStub.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.System.Profile.SystemId.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Clipc.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\CryptoWinRT.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\wininet.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\tokenbinding.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\OnDemandConnRouteHelper.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\winhttp.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\winnsi.dll'. Symbols loaded.
+The thread 0xab4 has exited with code 0 (0x0).
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\rsaenh.dll'. Symbols loaded.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+Invalid parameter passed to C runtime function.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Globalization.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\BCP47Langs.dll'. Symbols loaded.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\BCP47mrm.dll'. Symbols loaded.
+Exception thrown at 0x77143072 (KernelBase.dll) in SampleEvmill.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5B1E33D0: (caller: 5B1E23EF) Exception(3) tid(1600) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0250CDF0.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5B1DF48C: (caller: 5B1DB5FC) Exception(4) tid(1600) 80070490 Element not found.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0250D038.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5B1D8561: (caller: 5B1D591F) ReturnHr(3) tid(1600) 80070490 Element not found.
+Exception thrown at 0x77143072 (KernelBase.dll) in SampleEvmill.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5B1E33D0: (caller: 5B1E23EF) Exception(5) tid(1600) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0250CDC0.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5B1DF48C: (caller: 5B1DB5FC) Exception(6) tid(1600) 80070490 Element not found.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0250D008.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5B1D8561: (caller: 5B1D591F) ReturnHr(4) tid(1600) 80070490 Element not found.
+Exception thrown at 0x77143072 (KernelBase.dll) in SampleEvmill.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5B1E33D0: (caller: 5B1E23EF) Exception(7) tid(1600) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0250CD60.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5B1DF48C: (caller: 5B1DB5FC) Exception(8) tid(1600) 80070490 Element not found.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0250CFA8.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5B1D8561: (caller: 5B1D591F) ReturnHr(5) tid(1600) 80070490 Element not found.
+The thread 0x10b0 has exited with code 0 (0x0).
+Exception thrown at 0x77143072 (KernelBase.dll) in SampleEvmill.exe: WinRT originate error - 0x80040111 : 'Windows.UI.WindowManagement.DisplayRegion'.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\viewpositiontrackerinternal.h(94)\Windows.Devices.Sensors.dll!5B1E33D0: (caller: 5B1E23EF) Exception(9) tid(1600) 80040111 ClassFactory cannot supply requested class
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0250CE30.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensor.cpp(179)\Windows.Devices.Sensors.dll!5B1DF48C: (caller: 5B1DB5FC) Exception(10) tid(1600) 80070490 Element not found.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: wil::ResultException at memory location 0x0250D078.
+Exception thrown at 0x77143072 in SampleEvmill.exe: Microsoft C++ exception: [rethrow] at memory location 0x00000000.
+onecoreuap\drivers\mobilepc\sensors\convergence\api\winrt\public\internal\sensorserver.cpp(46)\Windows.Devices.Sensors.dll!5B1D8561: (caller: 5B1D591F) ReturnHr(6) tid(1600) 80070490 Element not found.
+'SampleEvmill.exe' (Win32): Loaded 'C:\Windows\System32\rometadata.dll'. Symbols loaded.
+The thread 0x8e8 has exited with code 0 (0x0).
+The thread 0x874 has exited with code 0 (0x0).
+[89.351017 / 101.374254] - OnWindowActivated event - Deactivated.
+[9.834772 / 111.209026] - OnVisibilityChanged event - Hidden.
+The thread 0x618 has exited with code 0 (0x0).
+The thread 0x1668 has exited with code 0 (0x0).
+The thread 0x1130 has exited with code 0 (0x0).
+The thread 0x318 has exited with code 0 (0x0).
+The thread 0x1360 has exited with code 0 (0x0).
+The thread 0x360 has exited with code 0 (0x0).
+The thread 0x10cc has exited with code 0 (0x0).
+The thread 0x1740 has exited with code 0 (0x0).
+The thread 0x1608 has exited with code 0 (0x0).
+The thread 0x1748 has exited with code 0 (0x0).
+The thread 0x15e4 has exited with code 0 (0x0).
+The thread 0x169c has exited with code 0 (0x0).
+The thread 0x1330 has exited with code 0 (0x0).
+The thread 0x1120 has exited with code 0 (0x0).
+The thread 0x7d4 has exited with code 0 (0x0).
+The thread 0xa98 has exited with code 0 (0x0).
+The thread 0x1150 has exited with code 0 (0x0).
+The thread 0x1788 has exited with code 0 (0x0).
+The thread 0xf98 has exited with code 0 (0x0).
+The thread 0xb78 has exited with code 0 (0x0).
+The thread 0x168c has exited with code 0 (0x0).
+The thread 0x12c0 has exited with code 0 (0x0).
+The thread 0x1374 has exited with code 0 (0x0).
+The thread 0x11ac has exited with code 0 (0x0).
+The thread 0x11e8 has exited with code 0 (0x0).
+The thread 0x614 has exited with code 0 (0x0).
+The thread 0x410 has exited with code 0 (0x0).
+The thread 0x218 has exited with code 0 (0x0).
+The thread 0x1518 has exited with code 0 (0x0).
+The thread 0x13a0 has exited with code 0 (0x0).
+The thread 0x1678 has exited with code 0 (0x0).
+The thread 0x1594 has exited with code 0 (0x0).
+The thread 0x1600 has exited with code 0 (0x0).
+The thread 0x10f4 has exited with code 0 (0x0).
+The thread 0x4cc has exited with code 0 (0x0).
+The thread 0x17f4 has exited with code 0 (0x0).
+The thread 0x964 has exited with code 0 (0x0).
+The thread 0x1484 has exited with code 0 (0x0).
+The thread 0x7a0 has exited with code 0 (0x0).
+The thread 0x1114 has exited with code 0 (0x0).
+The thread 0x988 has exited with code 0 (0x0).
+The thread 0xe24 has exited with code 0 (0x0).
+The thread 0x10f8 has exited with code 0 (0x0).
+The thread 0xde4 has exited with code 0 (0x0).
+The thread 0x1008 has exited with code 0 (0x0).
+The thread 0xb44 has exited with code 0 (0x0).
+The thread 0x4e8 has exited with code 0 (0x0).
+The thread 0x314 has exited with code 0 (0x0).
+The thread 0xe3c has exited with code 0 (0x0).
+The thread 0x141c has exited with code 0 (0x0).
+The thread 0x134c has exited with code 0 (0x0).
+The thread 0x934 has exited with code 0 (0x0).
+The thread 0xe48 has exited with code 0 (0x0).
+The thread 0x1334 has exited with code 0 (0x0).
+The thread 0x328 has exited with code 0 (0x0).
+The thread 0xbec has exited with code 0 (0x0).
+The thread 0x1444 has exited with code 0 (0x0).
+The program '[812] SampleEvmill.exe' has exited with code 0 (0x0).
